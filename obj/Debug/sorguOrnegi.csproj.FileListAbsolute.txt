@@ -1,0 +1,9 @@
+C:\Users\kamil\source\repos\sorguOrnegi\sorguOrnegi\bin\Debug\sorguOrnegi.exe.config
+C:\Users\kamil\source\repos\sorguOrnegi\sorguOrnegi\bin\Debug\sorguOrnegi.exe
+C:\Users\kamil\source\repos\sorguOrnegi\sorguOrnegi\bin\Debug\sorguOrnegi.pdb
+C:\Users\kamil\source\repos\sorguOrnegi\sorguOrnegi\obj\Debug\sorguOrnegi.csprojAssemblyReference.cache
+C:\Users\kamil\source\repos\sorguOrnegi\sorguOrnegi\obj\Debug\sorguOrnegi.Form1.resources
+C:\Users\kamil\source\repos\sorguOrnegi\sorguOrnegi\obj\Debug\sorguOrnegi.Properties.Resources.resources
+C:\Users\kamil\source\repos\sorguOrnegi\sorguOrnegi\obj\Debug\sorguOrnegi.csproj.GenerateResource.cache
+C:\Users\kamil\source\repos\sorguOrnegi\sorguOrnegi\obj\Debug\sorguOrnegi.exe
+C:\Users\kamil\source\repos\sorguOrnegi\sorguOrnegi\obj\Debug\sorguOrnegi.pdb
